@@ -5,16 +5,16 @@
 
 ## 📄 Projects
 
-1.[Violation Application](https://github.com/raymundo-angellajane/violation-project) - a Student Violation Management Module integrated with the Student Information App to record, track, and monitor Student violations with history and penalties.
+1.[Violation Application](https://github.com/raymundo-angellajane/violation-project) - a Student Violation Management Module integrated with the Student Information App to record, track, and monitor Student violations with history and penalties. <br>
 **Tech Stack:** Blade • Laravel • PHP • XAMPP  <br> **Role:** Data Administrator • Backend Programmer • QA Tester <br>
 
-2.[Information Partnership Application](https://github.com/villas-clarence/Infoman_partnership_app)
+2.[Information Partnership Application](https://github.com/villas-clarence/Infoman_partnership_app) <br>
 **Tech Stack:** HTML • CSS • PHP • JavaScript <br> **Role:** Data Administrator • Backend Programmer • QA Tester <br>
 
-3.[MedAssistant](https://github.com/delima-justine/MedAssistant) - Made in Java, a system designed to manage hospital operations such as patient records, doctor schedules, and admin access.
+3.[MedAssistant](https://github.com/delima-justine/MedAssistant) - Made in Java, a system designed to manage hospital operations such as patient records, doctor schedules, and admin access. <br>
 **Tech Stack:** Java • Scene Builder • SMSS <br> **Role:** QA Tester <br>
 
-4.[Automated Disk Cleaner & Usage Analyzer](https://github.com/mejares-jamesmichael/OS-PROJECT-Powershell-GUI) - a PowerShell tool that helps clean unnecessary files and optimize device storage.
+4.[Automated Disk Cleaner & Usage Analyzer](https://github.com/mejares-jamesmichael/OS-PROJECT-Powershell-GUI) - a PowerShell tool that helps clean unnecessary files and optimize device storage. <br>
 **Tech Stack:** PowerShell <br> **Role:** QA Tester • Documentation <br>
 <div>
 
