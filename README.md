@@ -1,28 +1,22 @@
 # 💫 About Me:
 👋 I'm Kathleen C. Citron, a 3rd year Student from Polytechnic University of the Philippines - Taguig Campus.<br> 📚 Currently learning about different Programming Languages.<br>
 
+<div>
+
 ## 📄 Projects
 
-1. [Violation Application] - (https://github.com/raymundo-angellajane/violation-project)
-- A Student Violation Management Module integrated with the Student Information App to record, track, and monitor Student violations with history and penalties.
+1.[Violation Application](https://github.com/raymundo-angellajane/violation-project) - a Student Violation Management Module integrated with the Student Information App to record, track, and monitor Student violations with history and penalties.
+**Tech Stack:** Blade • Laravel • PHP • XAMPP  <br> **Role:** Data Administrator • Backend Programmer • QA Tester <br>
 
-**Tech Stack:** Blade • Laravel • PHP • XAMPP 
-**Role:** Data Administrator • Backend Programmer • QA Tester
+2.[Information Partnership Application](https://github.com/villas-clarence/Infoman_partnership_app)
+**Tech Stack:** HTML • CSS • PHP • JavaScript <br> **Role:** Data Administrator • Backend Programmer • QA Tester <br>
 
-2. [Information Partnership Application] - (https://github.com/villas-clarence/Infoman_partnership_app)
-**Tech Stack:** HTML • CSS • PHP • JavaScript
-**Role:** Data Administrator • Backend Programmer • QA Tester
+3.[MedAssistant](https://github.com/delima-justine/MedAssistant) - Made in Java, a system designed to manage hospital operations such as patient records, doctor schedules, and admin access.
+**Tech Stack:** Java • Scene Builder • SMSS <br> **Role:** QA Tester <br>
 
-3. [MedAssistant] - (https://github.com/delima-justine/MedAssistant)
-- Made in Java, a system designed to manage hospital operations such as patient records, doctor schedules, and admin access.
-**Tech Stack:** Java • Scene Builder • SMSS
-**Role:** QA Tester
-
-4. [Automated Disk Cleaner & Usage Analyzer] - (https://github.com/mejares-jamesmichael/OS-PROJECT-Powershell-GUI)
-- a PowerShell tool that helps clean unnecessary files and optimize device storage.
-**Tech Stack:** PowerShell
-**Role:** QA Tester • Documentation
-
+4.[Automated Disk Cleaner & Usage Analyzer](https://github.com/mejares-jamesmichael/OS-PROJECT-Powershell-GUI) - a PowerShell tool that helps clean unnecessary files and optimize device storage.
+**Tech Stack:** PowerShell <br> **Role:** QA Tester • Documentation <br>
+<div>
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
